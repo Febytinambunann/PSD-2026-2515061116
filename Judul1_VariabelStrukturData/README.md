@@ -23,3 +23,5 @@ Source Code
 14. Jika 'choice == 4', nilai 'running' diatur menjadi 'False', artinya program akan berhenti.
 15. Jika pilihan yang diberikan tidak sesuai, program akan menunjukkan pesan “Pilihan tidak valid! ”.
 16. Bagian 'if __name__ == "__main__": main()' memastikan bahwa fungsi 'main()' aktif ketika file Python dijalankan secara langsung.
+
+LINK : https://youtu.be/09lBcvDM-Vk
