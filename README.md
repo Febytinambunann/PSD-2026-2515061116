@@ -24,3 +24,7 @@ Program ini dirancang untuk mencari data nama siswa dengan menggunakan algoritma
 18. print(f"Nama {target} tidak ditemukan.") untuk menampilkan pesan bahwa data tidak ditemukan.
 19. if __name__ == "__main__": untuk mengecek apakah program dijalankan langsung.
 20. main() untuk menjalankan fungsi utama program.
+
+link Tugas : <img width="1089" height="1600" alt="image" src="https://github.com/user-attachments/assets/bfb70d61-357e-4917-bbf2-30a513914072" />
+
+link video : https://youtu.be/qCoEWsYxt2Y
